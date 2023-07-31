@@ -8,6 +8,8 @@ UPDATED DATAS OF:
 
 ========= PROVINCE 1 (KOSHI) ============
 
+== JHAPA ==
+
 - Arjundhara Municipality
 - Barhadashi Rural Municipality
 - Bhadrapur Municipality
@@ -22,7 +24,14 @@ UPDATED DATAS OF:
 - Kamal Rural Municipality
 - Kankai Municipality
 - Mechinagar Municipality
-- Shivasataxi Municipality
+- Shivasatakshi Municipality
+
+== MORANG ==
+
+- Belbari Municipality
+- Biratnagar Metropolitan Municipality
+- Budhiganga Rural Municipality
+-
 
 ========= PROVINCE BAGMATI ============
 

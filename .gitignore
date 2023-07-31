@@ -8,6 +8,9 @@ node_modules/
 /.pnp
 .pnp.js
 .env
+geo
+geo/
+/geo
 
 /datas
 datas/

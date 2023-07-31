@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/e67f03e4-1b42-4643-b583-83ec8bcd94b6/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/geo-suchana",
+    "appService.deploySubpath": "."
+}
