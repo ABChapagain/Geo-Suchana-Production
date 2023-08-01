@@ -6,9 +6,9 @@ Send your request to /api/municapalities?lat={latitude}&amp;lng={longitude} to g
 
 UPDATED DATAS OF:
 
-##PROVINCE 1 (KOSHI)
+## PROVINCE 1 (KOSHI)
 
-###JHAPA
+### JHAPA
 
 - Arjundhara Municipality
 - Barhadashi Rural Municipality
@@ -27,7 +27,7 @@ UPDATED DATAS OF:
 - Shivasatakshi Municipality
 
 
-###MORANG
+### MORANG
 
 - Belbari Municipality
 - Biratnagar Metropolitan Municipality
@@ -42,7 +42,7 @@ UPDATED DATAS OF:
 
 
 
-##PROVINCE BAGMATI
+## PROVINCE BAGMATI
 
 - Kathmandu Metropolitan Municipality
 - Lalitpur Metropolitan Municipality
